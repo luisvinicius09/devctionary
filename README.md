@@ -1,4 +1,4 @@
-# devctionary
+# devctionary 🚧 - Under construction
 A Comprehensive Repository for Variable Naming Conventions Across Programming Languages 🚧
 
 ### What am I trying to achieve?
